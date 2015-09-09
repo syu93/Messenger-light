@@ -1,0 +1,17 @@
+{
+	"name": "Messenger - Light",
+	"main": "https://www.messenger.com",
+	"description": "A Light weight desktop messenger app",
+	"version": "0.1.0",
+	"window": {
+		"position": "mouse",
+		"icon": "favicon.ico",
+		"toolbar": false,
+		"width": 623,
+		"height": 416,
+		"min_width": 615,
+		"min_height": 416,
+		"max_width": 623,
+		"max_height": 416
+	}
+}
